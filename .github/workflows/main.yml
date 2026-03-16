@@ -1,0 +1,92 @@
+name: Generate Daily Puzzle & Deploy
+
+on:
+  # Exécution quotidienne à minuit (UTC)
+  schedule:
+    - cron: '0 0 * * *'
+  # Permet aussi le déclenchement manuel
+  workflow_dispatch:
+  # Déploiement sur push vers main
+  push:
+    branches:
+      - main
+
+# Permissions pour GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Empêche les exécutions concurrentes
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      # Checkout du code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Configuration de Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # Cache pour les modèles HuggingFace
+      - name: Cache HuggingFace models
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: huggingface-models-${{ runner.os }}
+
+      # Installation des dépendances Python
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Génération du puzzle quotidien
+      - name: Generate daily puzzle
+        run: python generator.py
+        env:
+          TRANSFORMERS_CACHE: ~/.cache/huggingface
+
+      # Configuration de Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      # Installation des dépendances Node.js
+      - name: Install Node dependencies
+        run: npm ci
+
+      # Build de l'application React
+      - name: Build React app
+        run: npm run build
+
+      # Configuration de GitHub Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      # Upload de l'artifact
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+      # Déploiement sur GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
