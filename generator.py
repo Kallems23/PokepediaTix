@@ -392,7 +392,7 @@ def add_image_placeholders(tokens: List[Dict[str, Any]]) -> List[Dict[str, Any]]
 # SÉLECTION ET GÉNÉRATION
 # ============================================================================
 
-def select_page(categories: List[str], min_chars: int = 200) -> Optional[Dict[str, Any]]:
+def select_page(categories: List[str], min_chars: int = 150) -> Optional[Dict[str, Any]]:
     all_pages = []
     for cat in categories:
         print(f"  {cat}...")
@@ -407,7 +407,7 @@ def select_page(categories: List[str], min_chars: int = 200) -> Optional[Dict[st
     print(f"Total: {len(all_pages)}")
     random.shuffle(all_pages)
 
-    for i, title in enumerate(all_pages[:60]):
+    for i, title in enumerate(all_pages[:100]):
         print(f"  [{i+1}] {title}", end="")
         html = fetch_page_html(title)
         if len(html) < 1000:
@@ -477,7 +477,7 @@ def generate_pokemon_puzzle() -> Dict[str, Any]:
 
 def generate_wiki_puzzle() -> Dict[str, Any]:
     print("\n=== WIKI ===")
-    page = select_page(WIKI_CATEGORIES, min_chars=300)
+    page = select_page(WIKI_CATEGORIES, min_chars=150)
     if not page:
         raise Exception("Pas de page Wiki trouvée")
 
