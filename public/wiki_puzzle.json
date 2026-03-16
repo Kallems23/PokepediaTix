@@ -1,17 +1,17 @@
 {
   "date": "2026-03-16",
   "mode": "wiki",
-  "titleHash": "c9802b6ded40a61d09208e9b08d1e13dea872ee2d8806b4bf242fcdf10d4876c",
+  "titleHash": "4fc76220695f7d1a2cd86d7f91908e392fbf31b18c90e838ad6eff1ea554d0cd",
   "titleTokens": [
     {
       "type": "word",
-      "value": "Janusia",
-      "normalized": "janusia",
+      "value": "Carabacroc",
+      "normalized": "carabacroc",
       "revealed": false,
-      "length": 7
+      "length": 10
     }
   ],
-  "titleLength": 7,
+  "titleLength": 10,
   "tokens": [
     {
       "type": "paragraph_start",
@@ -19,10 +19,22 @@
     },
     {
       "type": "word",
-      "value": "Janusia",
-      "normalized": "janusia",
+      "value": "Le",
+      "normalized": "le",
       "revealed": false,
-      "length": 7
+      "length": 2
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "Carabacroc",
+      "normalized": "carabacroc",
+      "revealed": false,
+      "length": 10
     },
     {
       "type": "space",
@@ -35,266 +47,6 @@
       "normalized": "est",
       "revealed": false,
       "length": 3
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "une",
-      "normalized": "une",
-      "revealed": false,
-      "length": 3
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "ville",
-      "normalized": "ville",
-      "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "au",
-      "normalized": "au",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "nord",
-      "normalized": "nord",
-      "revealed": false,
-      "length": 4
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "d",
-      "normalized": "d",
-      "revealed": false,
-      "length": 1
-    },
-    {
-      "type": "punctuation",
-      "value": "'",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "Unys",
-      "normalized": "unys",
-      "revealed": false,
-      "length": 4
-    },
-    {
-      "type": "punctuation",
-      "value": ".",
-      "revealed": true
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "L",
-      "normalized": "l",
-      "revealed": false,
-      "length": 1
-    },
-    {
-      "type": "punctuation",
-      "value": "'",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "apparence",
-      "normalized": "apparence",
-      "revealed": false,
-      "length": 9
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "de",
-      "normalized": "de",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "la",
-      "normalized": "la",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "ville",
-      "normalized": "ville",
-      "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "diffère",
-      "normalized": "differe",
-      "revealed": false,
-      "length": 7
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "selon",
-      "normalized": "selon",
-      "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "la",
-      "normalized": "la",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "version",
-      "normalized": "version",
-      "revealed": false,
-      "length": 7
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "punctuation",
-      "value": ":",
-      "revealed": true
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "dans",
-      "normalized": "dans",
-      "revealed": false,
-      "length": 4
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "Pokémon",
-      "normalized": "pokemon",
-      "revealed": false,
-      "length": 7
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "Noir",
-      "normalized": "noir",
-      "revealed": false,
-      "length": 4
-    },
-    {
-      "type": "punctuation",
-      "value": ",",
-      "revealed": true
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "elle",
-      "normalized": "elle",
-      "revealed": false,
-      "length": 4
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "a",
-      "normalized": "a",
-      "revealed": false,
-      "length": 1
     },
     {
       "type": "space",
@@ -315,10 +67,10 @@
     },
     {
       "type": "word",
-      "value": "aspect",
-      "normalized": "aspect",
+      "value": "objet",
+      "normalized": "objet",
       "revealed": false,
-      "length": 6
+      "length": 5
     },
     {
       "type": "space",
@@ -327,133 +79,8 @@
     },
     {
       "type": "word",
-      "value": "moderne",
-      "normalized": "moderne",
-      "revealed": false,
-      "length": 7
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "et",
-      "normalized": "et",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "technologique",
-      "normalized": "technologique",
-      "revealed": false,
-      "length": 13
-    },
-    {
-      "type": "punctuation",
-      "value": ",",
-      "revealed": true
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "tandis",
-      "normalized": "tandis",
-      "revealed": false,
-      "length": 6
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "qu",
-      "normalized": "qu",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "punctuation",
-      "value": "'",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "elle",
-      "normalized": "elle",
-      "revealed": false,
-      "length": 4
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "a",
-      "normalized": "a",
-      "revealed": false,
-      "length": 1
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "une",
-      "normalized": "une",
-      "revealed": false,
-      "length": 3
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "apparence",
-      "normalized": "apparence",
-      "revealed": false,
-      "length": 9
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "plus",
-      "normalized": "plus",
-      "revealed": false,
-      "length": 4
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "ancienne",
-      "normalized": "ancienne",
+      "value": "exclusif",
+      "normalized": "exclusif",
       "revealed": false,
       "length": 8
     },
@@ -464,8 +91,20 @@
     },
     {
       "type": "word",
-      "value": "dans",
-      "normalized": "dans",
+      "value": "aux",
+      "normalized": "aux",
+      "revealed": false,
+      "length": 3
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "jeux",
+      "normalized": "jeux",
       "revealed": false,
       "length": 4
     },
@@ -488,219 +127,44 @@
     },
     {
       "type": "word",
-      "value": "Blanc",
-      "normalized": "blanc",
-      "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "punctuation",
-      "value": ".",
-      "revealed": true
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "Il",
-      "normalized": "il",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "est",
-      "normalized": "est",
-      "revealed": false,
-      "length": 3
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "précisé",
-      "normalized": "precise",
-      "revealed": false,
-      "length": 7
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "dans",
-      "normalized": "dans",
-      "revealed": false,
-      "length": 4
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "l",
-      "normalized": "l",
-      "revealed": false,
-      "length": 1
-    },
-    {
-      "type": "punctuation",
-      "value": "'",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "une",
-      "normalized": "une",
-      "revealed": false,
-      "length": 3
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "des",
-      "normalized": "des",
-      "revealed": false,
-      "length": 3
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "maisons",
-      "normalized": "maisons",
-      "revealed": false,
-      "length": 7
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "que",
-      "normalized": "que",
-      "revealed": false,
-      "length": 3
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "la",
-      "normalized": "la",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "ville",
-      "normalized": "ville",
-      "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "de",
-      "normalized": "de",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "Pokémon",
-      "normalized": "pokemon",
-      "revealed": false,
-      "length": 7
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "Blanc",
-      "normalized": "blanc",
-      "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "est",
-      "normalized": "est",
-      "revealed": false,
-      "length": 3
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "une",
-      "normalized": "une",
-      "revealed": false,
-      "length": 3
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "vision",
-      "normalized": "vision",
+      "value": "Donjon",
+      "normalized": "donjon",
       "revealed": false,
       "length": 6
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "Mystère",
+      "normalized": "mystere",
+      "revealed": false,
+      "length": 7
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "punctuation",
+      "value": ":",
+      "revealed": true
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "Explorateurs",
+      "normalized": "explorateurs",
+      "revealed": false,
+      "length": 12
     },
     {
       "type": "space",
@@ -721,8 +185,8 @@
     },
     {
       "type": "word",
-      "value": "passé",
-      "normalized": "passe",
+      "value": "Temps",
+      "normalized": "temps",
       "revealed": false,
       "length": 5
     },
@@ -730,54 +194,6 @@
       "type": "punctuation",
       "value": ",",
       "revealed": true
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "alors",
-      "normalized": "alors",
-      "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "que",
-      "normalized": "que",
-      "revealed": false,
-      "length": 3
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "la",
-      "normalized": "la",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "ville",
-      "normalized": "ville",
-      "revealed": false,
-      "length": 5
     },
     {
       "type": "space",
@@ -798,58 +214,10 @@
     },
     {
       "type": "word",
-      "value": "Pokémon",
-      "normalized": "pokemon",
+      "value": "l",
+      "normalized": "l",
       "revealed": false,
-      "length": 7
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "Noir",
-      "normalized": "noir",
-      "revealed": false,
-      "length": 4
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "est",
-      "normalized": "est",
-      "revealed": false,
-      "length": 3
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "ce",
-      "normalized": "ce",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "qu",
-      "normalized": "qu",
-      "revealed": false,
-      "length": 2
+      "length": 1
     },
     {
       "type": "punctuation",
@@ -858,111 +226,10 @@
     },
     {
       "type": "word",
-      "value": "elle",
-      "normalized": "elle",
-      "revealed": false,
-      "length": 4
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "deviendra",
-      "normalized": "deviendra",
-      "revealed": false,
-      "length": 9
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "dans",
-      "normalized": "dans",
-      "revealed": false,
-      "length": 4
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "le",
-      "normalized": "le",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "futur",
-      "normalized": "futur",
+      "value": "Ombre",
+      "normalized": "ombre",
       "revealed": false,
       "length": 5
-    },
-    {
-      "type": "punctuation",
-      "value": ".",
-      "revealed": true
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "Avec",
-      "normalized": "avec",
-      "revealed": false,
-      "length": 4
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "la",
-      "normalized": "la",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "forêt",
-      "normalized": "foret",
-      "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "Blanche",
-      "normalized": "blanche",
-      "revealed": false,
-      "length": 7
     },
     {
       "type": "space",
@@ -983,8 +250,8 @@
     },
     {
       "type": "word",
-      "value": "la",
-      "normalized": "la",
+      "value": "du",
+      "normalized": "du",
       "revealed": false,
       "length": 2
     },
@@ -995,135 +262,10 @@
     },
     {
       "type": "word",
-      "value": "ville",
-      "normalized": "ville",
+      "value": "Ciel",
+      "normalized": "ciel",
       "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "Noire",
-      "normalized": "noire",
-      "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "punctuation",
-      "value": ",",
-      "revealed": true
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "c",
-      "normalized": "c",
-      "revealed": false,
-      "length": 1
-    },
-    {
-      "type": "punctuation",
-      "value": "'",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "est",
-      "normalized": "est",
-      "revealed": false,
-      "length": 3
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "la",
-      "normalized": "la",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "seule",
-      "normalized": "seule",
-      "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "ville",
-      "normalized": "ville",
-      "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "différente",
-      "normalized": "differente",
-      "revealed": false,
-      "length": 10
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "selon",
-      "normalized": "selon",
-      "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "les",
-      "normalized": "les",
-      "revealed": false,
-      "length": 3
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "versions",
-      "normalized": "versions",
-      "revealed": false,
-      "length": 8
+      "length": 4
     },
     {
       "type": "punctuation",
@@ -1161,8 +303,8 @@
     },
     {
       "type": "word",
-      "value": "la",
-      "normalized": "la",
+      "value": "un",
+      "normalized": "un",
       "revealed": false,
       "length": 2
     },
@@ -1173,20 +315,8 @@
     },
     {
       "type": "word",
-      "value": "dernière",
-      "normalized": "derniere",
-      "revealed": false,
-      "length": 8
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "ville",
-      "normalized": "ville",
+      "value": "objet",
+      "normalized": "objet",
       "revealed": false,
       "length": 5
     },
@@ -1197,10 +327,10 @@
     },
     {
       "type": "word",
-      "value": "avant",
-      "normalized": "avant",
+      "value": "propre",
+      "normalized": "propre",
       "revealed": false,
-      "length": 5
+      "length": 6
     },
     {
       "type": "space",
@@ -1209,46 +339,80 @@
     },
     {
       "type": "word",
-      "value": "la",
-      "normalized": "la",
-      "revealed": false,
-      "length": 2
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "Ligue",
-      "normalized": "ligue",
-      "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "d",
-      "normalized": "d",
+      "value": "à",
+      "normalized": "a",
       "revealed": false,
       "length": 1
     },
     {
-      "type": "punctuation",
-      "value": "'",
+      "type": "space",
+      "value": " ",
       "revealed": true
     },
     {
       "type": "word",
-      "value": "Unys",
-      "normalized": "unys",
+      "value": "Carabaffe",
+      "normalized": "carabaffe",
       "revealed": false,
-      "length": 4
+      "length": 9
+    },
+    {
+      "type": "punctuation",
+      "value": ".",
+      "revealed": true
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "Sa",
+      "normalized": "sa",
+      "revealed": false,
+      "length": 2
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "rareté",
+      "normalized": "rarete",
+      "revealed": false,
+      "length": 6
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "est",
+      "normalized": "est",
+      "revealed": false,
+      "length": 3
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "de",
+      "normalized": "de",
+      "revealed": false,
+      "length": 2
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
     },
     {
       "type": "punctuation",
@@ -1270,22 +434,10 @@
     },
     {
       "type": "word",
-      "value": "Sites",
-      "normalized": "sites",
+      "value": "Description",
+      "normalized": "description",
       "revealed": false,
-      "length": 5
-    },
-    {
-      "type": "space",
-      "value": " ",
-      "revealed": true
-    },
-    {
-      "type": "word",
-      "value": "remarquables",
-      "normalized": "remarquables",
-      "revealed": false,
-      "length": 12
+      "length": 11
     },
     {
       "type": "section_end",
@@ -1293,18 +445,18 @@
     }
   ],
   "stats": {
-    "totalWords": 101,
-    "hiddenWords": 101
+    "totalWords": 32,
+    "hiddenWords": 32
   },
   "categories": [
-    "Article incomplet",
-    "Ville",
-    "Ville d&#039;Unys",
-    "Lieu",
-    "Lieu d&#039;Unys"
+    "Objet",
+    "Objet de la quatrième génération",
+    "Objet de Pokémon Donjon Mystère",
+    "Réserve Kangourex",
+    "Objet à troquer"
   ],
   "hint": {
-    "firstLetter": "J",
+    "firstLetter": "C",
     "wordCount": 1
   },
   "semanticHints": {}

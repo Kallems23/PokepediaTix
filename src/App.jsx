@@ -209,7 +209,7 @@ function Game({ mode }) {
 
   // Charger le puzzle
   useEffect(() => {
-    const filename = mode === 'pokemon' ? '/pokemon_puzzle.json' : '/wiki_puzzle.json';
+    const filename = mode === 'pokemon' ? './pokemon_puzzle.json' : './wiki_puzzle.json';
 
     fetch(filename)
       .then(res => res.json())
@@ -516,7 +516,7 @@ function App() {
   const [hint, setHint] = useState(null);
 
   useEffect(() => {
-    const filename = activeTab === 'pokemon' ? '/pokemon_puzzle.json' : '/wiki_puzzle.json';
+    const filename = activeTab === 'pokemon' ? './pokemon_puzzle.json' : './wiki_puzzle.json';
     fetch(filename)
       .then(res => res.json())
       .then(data => setHint(data.hint))

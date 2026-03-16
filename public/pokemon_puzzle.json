@@ -1,17 +1,17 @@
 {
   "date": "2026-03-16",
   "mode": "pokemon",
-  "titleHash": "df55bf84922e7297eaf2a049e43b3b57d7b90e5a67972172aef603b2fa59122f",
+  "titleHash": "3d14e9d24336848c0f221bf0105881fb4e63567c7f67f552d3b9bba9f9b65704",
   "titleTokens": [
     {
       "type": "word",
-      "value": "Duralugon",
-      "normalized": "duralugon",
+      "value": "Gueriaigle",
+      "normalized": "gueriaigle",
       "revealed": false,
-      "length": 9
+      "length": 10
     }
   ],
-  "titleLength": 9,
+  "titleLength": 10,
   "tokens": [
     {
       "type": "paragraph_start",
@@ -19,10 +19,10 @@
     },
     {
       "type": "word",
-      "value": "Duralugon",
-      "normalized": "duralugon",
+      "value": "Gueriaigle",
+      "normalized": "gueriaigle",
       "revealed": false,
-      "length": 9
+      "length": 10
     },
     {
       "type": "space",
@@ -58,10 +58,10 @@
     },
     {
       "type": "word",
-      "value": "Duraludon",
-      "normalized": "duraludon",
+      "value": "Braviary",
+      "normalized": "braviary",
       "revealed": false,
-      "length": 9
+      "length": 8
     },
     {
       "type": "space",
@@ -102,10 +102,10 @@
     },
     {
       "type": "word",
-      "value": "ジュラルドン",
-      "normalized": "シュラルトン",
+      "value": "ウォーグル",
+      "normalized": "ウォークル",
       "revealed": false,
-      "length": 6
+      "length": 5
     },
     {
       "type": "space",
@@ -114,10 +114,10 @@
     },
     {
       "type": "word",
-      "value": "Duraludon",
-      "normalized": "duraludon",
+      "value": "Warrgle",
+      "normalized": "warrgle",
       "revealed": false,
-      "length": 9
+      "length": 7
     },
     {
       "type": "punctuation",
@@ -191,10 +191,10 @@
     },
     {
       "type": "word",
-      "value": "Acier",
-      "normalized": "acier",
+      "value": "Normal",
+      "normalized": "normal",
       "revealed": false,
-      "length": 5
+      "length": 6
     },
     {
       "type": "space",
@@ -215,10 +215,34 @@
     },
     {
       "type": "word",
-      "value": "Dragon",
-      "normalized": "dragon",
+      "value": "Vol",
+      "normalized": "vol",
+      "revealed": false,
+      "length": 3
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "apparu",
+      "normalized": "apparu",
       "revealed": false,
       "length": 6
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "lors",
+      "normalized": "lors",
+      "revealed": false,
+      "length": 4
     },
     {
       "type": "space",
@@ -251,10 +275,10 @@
     },
     {
       "type": "word",
-      "value": "huitième",
-      "normalized": "huitieme",
+      "value": "cinquième",
+      "normalized": "cinquieme",
       "revealed": false,
-      "length": 8
+      "length": 9
     },
     {
       "type": "space",
@@ -274,24 +298,113 @@
       "revealed": true
     },
     {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "C",
+      "normalized": "c",
+      "revealed": false,
+      "length": 1
+    },
+    {
+      "type": "punctuation",
+      "value": "'",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "est",
+      "normalized": "est",
+      "revealed": false,
+      "length": 3
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "la",
+      "normalized": "la",
+      "revealed": false,
+      "length": 2
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "forme",
+      "normalized": "forme",
+      "revealed": false,
+      "length": 5
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "évoluée",
+      "normalized": "evoluee",
+      "revealed": false,
+      "length": 7
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "de",
+      "normalized": "de",
+      "revealed": false,
+      "length": 2
+    },
+    {
+      "type": "space",
+      "value": " ",
+      "revealed": true
+    },
+    {
+      "type": "word",
+      "value": "Furaiglon",
+      "normalized": "furaiglon",
+      "revealed": false,
+      "length": 9
+    },
+    {
+      "type": "punctuation",
+      "value": ".",
+      "revealed": true
+    },
+    {
       "type": "paragraph_end",
       "revealed": true
     }
   ],
   "infoboxTokens": [],
   "stats": {
-    "totalWords": 18,
-    "hiddenWords": 18
+    "totalWords": 27,
+    "hiddenWords": 27
   },
   "categories": [
-    "Pokémon du groupe Minéral",
-    "Pokémon du groupe Draconique",
-    "Image Pokémon représentant Duralugon",
-    "Pokémon de type Acier",
-    "Pokémon de type Dragon"
+    "Pokémon du groupe Aérien",
+    "Image Pokémon représentant Gueriaigle",
+    "Pokémon de type Normal",
+    "Pokémon de type Vol",
+    "Pokémon du groupe Aérien"
   ],
   "hint": {
-    "firstLetter": "D",
+    "firstLetter": "G",
     "wordCount": 1
   },
   "semanticHints": {}
